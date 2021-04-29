@@ -84,8 +84,8 @@ Codon optimisation is not merely a computational process; it has profound implic
 - `optimise_codons(codons)`: Optimiaes a list of codons based on specified rules.
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/your-username/codon-optimisation.git`
-2. Navigate to the project directory: `cd codon-optimisation`
+1. Clone the repository: `git clone https://github.com/Jarryd-W-Hoffman/Codon-Optimisation-for-Vaccine-Development.git`
+2. Navigate to the project directory: `cd Codon-Optimisation-for-Vaccine-Development`
 3. Run the optimisation script: `python codon_optimisation.py`
 
 ## Results
